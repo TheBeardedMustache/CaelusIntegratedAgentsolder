@@ -49,16 +49,10 @@ Follow these steps to set up and run the application:
     - Get an OpenAI API key from: https://platform.openai.com/api-keys
     - Get a Firecrawl API key from: [Firecrawl website](https://www.firecrawl.dev/app/api-keys)
 
-4. **Run the Gradio app**:
+4. **Run the Streamlit app**:
     ```bash
-    python ai_aqi_analysis_agent.py
+    streamlit run ai_aqi_analysis_agent_streamlit.py
     ```
-
-5. **Access the Web Interface**:
-    - The terminal will display two URLs:
-      - Local URL: `http://127.0.0.1:7860` (for local access)
-      - Public URL: `https://xxx-xxx-xxx.gradio.live` (for temporary public access)
-    - Click on either URL to open the web interface in your browser
 
 ## Usage
 
