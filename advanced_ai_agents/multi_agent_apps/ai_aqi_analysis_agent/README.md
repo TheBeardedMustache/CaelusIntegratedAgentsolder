@@ -36,7 +36,7 @@ Follow these steps to set up and run the application:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
+   git clone https://github.com/Caelus/awesome-llm-apps.git
    cd ai_agent_tutorials/ai_aqi_analysis_agent
    ```
 

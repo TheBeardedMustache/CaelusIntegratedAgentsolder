@@ -11,7 +11,7 @@ This project demonstrates how to build a ChatGPT clone using the Llama-3 model r
 1. Clone the GitHub repository
 
 ```bash
-git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
+git clone https://github.com/Caelus/awesome-llm-apps.git
 cd awesome-llm-apps/advanced_tools_frameworks/local_chatgpt_clone
 ```
 2. Install the required dependencies:
@@ -21,7 +21,7 @@ pip install -r requirements.txt
 ```
 3. Download and install the [LM Studio desktop app](https://lmstudio.ai/). Download the Llama-3 instruct model.
 
-4. Expose the Llama-3 model as an OpenAI API by starting the server in LM Studio. Watch this [video walkthrough](https://x.com/Saboo_Shubham_/status/1783715814790549683).
+4. Expose the Llama-3 model as an OpenAI API by starting the server in LM Studio. Watch this [video walkthrough](https://x.com/CaelusAI/status/1783715814790549683).
 
 5. Run the Streamlit App
 ```bash

@@ -31,7 +31,7 @@ An advanced AI research agent built using the Agno Agent framework, Together AI'
 
    ```bash
    # Clone the repository
-   git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
+   git clone https://github.com/Caelus/awesome-llm-apps.git
    cd advanced_ai_agents/single_agent_apps/ai_domain_deep_research_agent
 
    # Install dependencies

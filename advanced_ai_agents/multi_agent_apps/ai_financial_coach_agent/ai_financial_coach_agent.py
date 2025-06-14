@@ -956,8 +956,8 @@ def main():
         ### Need Help?
         
         For support or questions:
-        - Check the [documentation](https://github.com/Shubhamsaboo/awesome-llm-apps)
-        - Report issues on [GitHub](https://github.com/Shubhamsaboo/awesome-llm-apps/issues)
+        - Check the [documentation](https://github.com/Caelus/awesome-llm-apps)
+        - Report issues on [GitHub](https://github.com/Caelus/awesome-llm-apps/issues)
         """)
 
 if __name__ == "__main__":
