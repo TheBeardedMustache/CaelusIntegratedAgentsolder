@@ -16,7 +16,7 @@ A Streamlit application that demonstrates an advanced implementation of RAG Agen
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
+   git clone https://github.com/Caelus/awesome-llm-apps.git
    cd rag_tutorials/rag_database_routing
    ```
 
